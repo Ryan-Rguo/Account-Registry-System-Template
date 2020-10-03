@@ -1,6 +1,8 @@
 # Account-Registry-System-Template
 A website account sign-up system practice, with MD5 encrypted,  based on Python 3.8, data stored in SQLite3.
 
+HOW TO START: While WebRegister.py is running, use http://localhost:5000/ in web browser to start testing.
+
 Functions:
 
 Registry:
@@ -24,13 +26,21 @@ Database Maintainance:
 
 
 File location:
+
 ... \ database.db
+
 ... \ database_maintainance.py
+
 ... \ WebRegister.py
+
 ... \ templates \ registry_home.html
+
 ... \ templates \ signin_form.html
+
 ... \ templates \ signin_ok_registry.html
+
 ... \ templates \ signup_form.html
+
 ... \ templates \ signup_ok.html
 
 
